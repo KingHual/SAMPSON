@@ -1,0 +1,10 @@
+{
+	"include_paths": null,
+	"user": "Hual",
+	"repo": "SAMPSON",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
