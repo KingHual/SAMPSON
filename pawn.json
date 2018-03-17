@@ -1,5 +1,5 @@
 {
-	"include_paths": null,
+	"include_path": "pawno/include",
 	"user": "Hual",
 	"repo": "SAMPSON",
 	"entry": "test.pwn",
